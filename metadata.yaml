@@ -1,4 +1,8 @@
 _repo: Aphorismen-zur-Lebensweisheit_47406
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47406-h/images/cover.jpg
 creator:
   author:
     agent_name: Schopenhauer, Arthur
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3648
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47406#Aphorismen-zur-Lebensweisheit
 gutenberg_issued: '2014-11-20'
 gutenberg_type: Text
 identifiers:
